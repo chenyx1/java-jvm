@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cpu_jvm/cpu_jvm.iml" filepath="$PROJECT_DIR$/cpu_jvm/cpu_jvm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cpu_jvm_tomcat/cpu_jvm_tomcat.iml" filepath="$PROJECT_DIR$/cpu_jvm_tomcat/cpu_jvm_tomcat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_jvm.iml" filepath="$PROJECT_DIR$/java_jvm.iml" />
+    </modules>
+  </component>
+</project>

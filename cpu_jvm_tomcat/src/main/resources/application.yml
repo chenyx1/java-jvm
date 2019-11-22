@@ -1,0 +1,4 @@
+server:
+  servlet:
+    context-path: /cpu-jvm-tomcat
+  port: 8081
